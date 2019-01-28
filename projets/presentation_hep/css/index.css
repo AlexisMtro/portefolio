@@ -1,0 +1,94 @@
+#orga
+{
+	margin-top: 20px;
+	margin-left: 300px;
+}
+
+#footer
+{
+	background-color: #757575;
+}
+
+#logo
+{
+
+	height: 45px;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+.zoom {
+	width: 320px;
+	height: 240px;
+}
+
+.image img {
+
+	-webkit-transition: all 1s ease; 
+	-moz-transition: all 1s ease; 
+	-ms-transition: all 1s ease; 
+	-o-transition: all 1s ease; 
+	transition: all 1s ease;
+}
+.image:hover img {
+
+	-webkit-transform:scale(1.25); 
+	-moz-transform:scale(1.25); 
+	-ms-transform:scale(1.25); 
+	-o-transform:scale(1.25); 
+	transform:scale(1.25);
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+body {
+	background: #fff;
+}
+
+.input-field input[type=date]:focus + label,
+.input-field input[type=text]:focus + label,
+.input-field input[type=email]:focus + label,
+.input-field input[type=password]:focus + label {
+	color: #e91e63;
+}
+
+.input-field input[type=date]:focus,
+.input-field input[type=text]:focus,
+.input-field input[type=email]:focus,
+.input-field input[type=password]:focus {
+	border-bottom: 2px solid #e91e63;
+	box-shadow: none;
+}
+
+#add
+{
+	margin-top: 35px;
+}
+
+#button
+{
+	margin-top: 35px;
+}
+
+#ok
+{
+	margin-top: 35px;
+}
+
+#deco
+{
+	float: right
+}
+
+#parcourir
+{
+	margin-left: 70px;
+}

@@ -1,46 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c077f87-1537-4165-8d40-571de47d515d" name="Default Changelist" comment="" />
+    <list default="true" id="6c077f87-1537-4165-8d40-571de47d515d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Alexis_Motro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/competences.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/formations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/presentation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/projets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/traitement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projets/bastide/offre.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projets/bastide/traitement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/moi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/cAccueil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/cConsultFichesFrais.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/cSaisieFicheFrais.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/cSeConnecter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/cSeDeconnecter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/Doc user.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/Utilisateur/connexion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/Utilisateur/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/Utilisateur/mes_fiches.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/Utilisateur/saisie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/accueil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/connexion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/docUser.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/documentation_technique_ppe2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/doc/saisie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_bdGestionDonnees.lib.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_entete.inc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_fin.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_gestionSession.lib.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_init.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_pied.inc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_sommaire.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/include/_utilitairesEtGestionErreurs.lib.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/css/materialize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/css/materialize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/fonts/roboto/Roboto-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/js/materialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/materialize/js/materialize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/Appli_Frais/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/addMedicaments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/addPracticiens.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/addVisiteurs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/addcomptesRenduDelegue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/addcomptesRenduDelegue2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/addcomptesRenduVisiteur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/addcomptesRenduVisiteur2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/comptesRenduDelegue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurRegion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurRegion2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurSecteur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/connexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Doc utilisateur.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/connexion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/add_cr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/add_cr_remp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/info_cr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/info_cr_visiteur_region.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/liste_cr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/liste_visiteurs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/delegues/menu2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/add_medicament.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/add_praticiens.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/add_visiteur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/cr_visiteur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/cr_visiteur_region.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/cr_visiteur_secteur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/liste_medicaments.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/liste_praticiens.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/liste_visiteurs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/responsables/menu2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/visiteurs/add_cr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/visiteurs/add_cr_remp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/visiteurs/liste_cr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/visiteurs/liste_medoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/visiteurs/liste_praticiens.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/visiteurs/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/Utilisateur/Screens/visiteurs/menu2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/doc.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/documentation_technique_ppe3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/gsb.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/doc/toDoppe3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/graph.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/graph2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/css/materialize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/css/materialize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/fonts/roboto/Roboto-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/js/materialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/materialize/js/materialize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/medicaments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/medicamentsResponsable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/menuDelegue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/menuResponsable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/menuResponsableCr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/menuVisiteur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/practiciens.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/practiciensResponsable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/redirectConnexionDelegue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/redirectConnexionResponsable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/redirectConnexionVisiteur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/traitementConnexionDelegue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/traitementConnexionResponsable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/traitementConnexionVisiteur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/traitementDeconnexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/visiteursDelegue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppe/ppe3/visiteursResponsable.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1259007250">
+    <session id="-659572691">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="php" value="36" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PHP" value="36" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="42" />
+          <entry key="css" value="357" />
+          <entry key="html" value="60" />
+          <entry key="js" value="19" />
+          <entry key="php" value="1080" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="42" />
+          <entry key="CSS" value="357" />
+          <entry key="HTML" value="83" />
+          <entry key="JavaScript" value="19" />
+          <entry key="PHP" value="1057" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="6" />
+          <entry key="js" value="1" />
+          <entry key="php" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="6" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="15" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projets/bastide/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projets/bastide/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>traitement</find>
+      <find>$message_formulaire_invalide</find>
+      <find>projet</find>
+      <find>contenu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +295,29 @@
         <option value="$PROJECT_DIR$/ppe/ppe3/traitementConnexionVisiteur.php" />
         <option value="$PROJECT_DIR$/ppe/ppe3/visiteursDelegue.php" />
         <option value="$PROJECT_DIR$/ppe/ppe3/visiteursResponsable.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/main/index.html" />
+        <option value="$PROJECT_DIR$/main/presentation.html" />
+        <option value="$PROJECT_DIR$/main/menu.php" />
+        <option value="$PROJECT_DIR$/main/competences.html" />
+        <option value="$PROJECT_DIR$/main/formations.html" />
+        <option value="$PROJECT_DIR$/main/menu.html" />
+        <option value="$PROJECT_DIR$/decouvrir.html" />
+        <option value="$PROJECT_DIR$/main/formations.php" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/main/contact.php" />
+        <option value="$PROJECT_DIR$/projets/bastide/index.php" />
+        <option value="$PROJECT_DIR$/projets/bastide/traitement.php" />
+        <option value="$PROJECT_DIR$/projets/bastide/offre.php" />
+        <option value="$PROJECT_DIR$/projets/bastide/menu.html" />
+        <option value="$PROJECT_DIR$/main/competences.php" />
+        <option value="$PROJECT_DIR$/main/traitement.php" />
+        <option value="$PROJECT_DIR$/projets/bastide/footer.html" />
+        <option value="$PROJECT_DIR$/main/projets.php" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/main/presentation.php" />
+        <option value="$PROJECT_DIR$/projets/bastide/contact.php" />
+        <option value="$PROJECT_DIR$/projets/bastide/css/index.css" />
       </list>
     </option>
   </component>
@@ -80,47 +327,76 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1457" />
-    <option name="y" value="-12" />
-    <option name="width" value="1364" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="site_perso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site_perso" type="462c0819:PsiDirectoryNode" />
+              <item name="site_folio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_folio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="site_perso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site_perso" type="462c0819:PsiDirectoryNode" />
-              <item name="ppe" type="462c0819:PsiDirectoryNode" />
+              <item name="site_folio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_folio" type="462c0819:PsiDirectoryNode" />
+              <item name="projets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="site_perso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site_perso" type="462c0819:PsiDirectoryNode" />
-              <item name="ppe" type="462c0819:PsiDirectoryNode" />
-              <item name="ppe3" type="462c0819:PsiDirectoryNode" />
+              <item name="site_folio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_folio" type="462c0819:PsiDirectoryNode" />
+              <item name="projets" type="462c0819:PsiDirectoryNode" />
+              <item name="bastide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site_folio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site_folio" type="462c0819:PsiDirectoryNode" />
+              <item name="projets" type="462c0819:PsiDirectoryNode" />
+              <item name="bastide" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bastide" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,34 +421,65 @@
       <option name="presentableId" value="Default" />
       <updated>1544227688823</updated>
       <workItem from="1544227690310" duration="583000" />
+      <workItem from="1544237003535" duration="452000" />
+      <workItem from="1544283449244" duration="21812000" />
+      <workItem from="1544439881345" duration="1721000" />
+      <workItem from="1544466145344" duration="3563000" />
+      <workItem from="1544777796418" duration="1623000" />
+      <workItem from="1544783477746" duration="62000" />
+      <workItem from="1544783573270" duration="447000" />
+      <workItem from="1544823601567" duration="407000" />
+      <workItem from="1544860574062" duration="19000" />
+      <workItem from="1544865555837" duration="1993000" />
+      <workItem from="1545059323344" duration="1499000" />
+      <workItem from="1545133612840" duration="2000" />
+      <workItem from="1545146746087" duration="4000" />
+      <workItem from="1545470481325" duration="3183000" />
+      <workItem from="1546878170243" duration="1590000" />
+      <workItem from="1546962649886" duration="3000" />
+      <workItem from="1546962707884" duration="3000" />
+      <workItem from="1546962796754" duration="6000" />
+      <workItem from="1546963019203" duration="16000" />
+      <workItem from="1546963883318" duration="105000" />
+      <workItem from="1546964790201" duration="6000" />
+      <workItem from="1546965325045" duration="4000" />
+      <workItem from="1546966019087" duration="53000" />
+      <workItem from="1547064939701" duration="2062000" />
+      <workItem from="1547460824550" duration="4000" />
+      <workItem from="1547461731444" duration="7000" />
+      <workItem from="1547465797372" duration="81000" />
+      <workItem from="1547559724378" duration="599000" />
+      <workItem from="1548109259876" duration="39000" />
+      <workItem from="1548110303590" duration="24000" />
+      <workItem from="1548610046628" duration="10515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="583000" />
+    <option name="totallyTimeSpent" value="52487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,230 +489,175 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ppe/Appli_Frais/cAccueil.php">
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduDelegue.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteur.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurRegion.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurRegion2.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurSecteur.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/connexion.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/graph.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/graph2.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/index.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/medicaments.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/medicamentsResponsable.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuDelegue.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuResponsable.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuResponsableCr.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuVisiteur.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/practiciens.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/practiciensResponsable.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/redirectConnexionDelegue.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/redirectConnexionResponsable.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/redirectConnexionVisiteur.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementConnexionDelegue.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementConnexionResponsable.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementConnexionVisiteur.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementDeconnexion.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/visiteursDelegue.php" />
+    <entry file="file://$PROJECT_DIR$/ppe/ppe3/visiteursResponsable.php" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/meta.rnc" />
+    <entry file="file://$PROJECT_DIR$/main/menu.php" />
+    <entry file="file://$PROJECT_DIR$/main/presentation.html" />
+    <entry file="file://$PROJECT_DIR$/main/formations.html" />
+    <entry file="file://$PROJECT_DIR$/main/competences.html" />
+    <entry file="file://$PROJECT_DIR$/decouvrir.html" />
+    <entry file="file://$PROJECT_DIR$/main/formations.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23" />
+        <state relative-caret-position="207">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/Appli_Frais/cSeConnecter.php">
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projets/bastide/carte_menu.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/Appli_Frais/cSaisieFicheFrais.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/traitement.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="158" column="12" lean-forward="true" selection-start-line="158" selection-start-column="12" selection-end-line="158" selection-end-column="12" />
+        <state relative-caret-position="276">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/Appli_Frais/include/_bdGestionDonnees.lib.php">
+    <entry file="file://$PROJECT_DIR$/main/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="330" column="90" lean-forward="true" selection-start-line="330" selection-start-column="90" selection-end-line="330" selection-end-column="90" />
+        <state relative-caret-position="276">
+          <caret line="28" lean-forward="true" selection-end-line="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/addcomptesRenduDelegue.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="414">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/addcomptesRenduDelegue2.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/offre.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="796">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/addcomptesRenduVisiteur.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/galerie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="506">
+          <caret line="22" column="8" lean-forward="true" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/addcomptesRenduVisiteur2.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="690">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/addMedicaments.php">
+    <entry file="file://$PROJECT_DIR$/main/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="414">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/addPracticiens.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="230">
+          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/addVisiteurs.php">
+    <entry file="file://$PROJECT_DIR$/main/traitement.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="437">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduDelegue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteur.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="95" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurRegion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="92" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurRegion2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="92" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/comptesRenduVisiteurSecteur.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="92" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/connexion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/graph.php">
+    <entry file="file://$PROJECT_DIR$/main/competences.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
-          <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
+          <caret line="94" column="71" lean-forward="true" selection-start-line="94" selection-start-column="71" selection-end-line="94" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/graph2.php">
+    <entry file="file://$PROJECT_DIR$/main/projets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="90" selection-start-line="31" selection-start-column="90" selection-end-line="31" selection-end-column="90" />
+        <state relative-caret-position="-308">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/index.php">
+    <entry file="file://$PROJECT_DIR$/main/presentation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="621">
+          <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/medicaments.php">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="267">
+          <caret line="175" column="13" selection-start-line="175" selection-start-column="5" selection-end-line="175" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/medicamentsResponsable.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        <state relative-caret-position="253">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuDelegue.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuResponsable.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuResponsableCr.php">
+    <entry file="file://$PROJECT_DIR$/projets/bastide/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="92" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
+        <state relative-caret-position="704">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/menuVisiteur.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/practiciens.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/practiciensResponsable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/redirectConnexionDelegue.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/redirectConnexionResponsable.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/redirectConnexionVisiteur.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementConnexionDelegue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementConnexionResponsable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementConnexionVisiteur.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/traitementDeconnexion.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/visiteursDelegue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ppe/ppe3/visiteursResponsable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="92" lean-forward="true" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

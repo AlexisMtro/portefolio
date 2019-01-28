@@ -1,36 +1,218 @@
-h3, h5
+.brand-logo
 {
-	text-decoration: underline;
+    margin-left: 15px;
 }
 
-#welcome 
+#main_title
 {
-	font-size: 15px;
+    margin-top: 200px;
 }
 
-.text
+#main_button
 {
-	margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
 }
 
-.btn
+#main_div
 {
-	margin-left: 15px;
+    font-family: Comic Sans MS;
 }
 
-#cv
+html
 {
-	margin-left: 10px;
+    background-color: #272525;
 }
 
-.contenu
+#presentation, #competences, #formations
 {
-	margin-top: 25px;
+    font-size: large;
 }
 
-#veille2
+#title_presentation, .contenu, #title_formations, #title_competences, #title_projets
 {
-	margin-bottom: 10px;
+    margin-top: 40px;
 }
+
+#school
+{
+    color: hotpink;
+    margin-left: 110px;
+}
+
+#favorite
+{
+    color: red;
+    margin-left: 110px;
+}
+
+#library
+{
+    color: dodgerblue;
+    margin-left: 110px;
+}
+
+
+.skillbar {
+    position:relative;
+    display:block;
+    margin-bottom:15px;
+    width:100%;
+    background:#eee;
+    height:35px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    -webkit-transition:0.4s linear;
+    -moz-transition:0.4s linear;
+    -ms-transition:0.4s linear;
+    -o-transition:0.4s linear;
+    transition:0.4s linear;
+    -webkit-transition-property:width, background-color;
+    -moz-transition-property:width, background-color;
+    -ms-transition-property:width, background-color;
+    -o-transition-property:width, background-color;
+    transition-property:width, background-color;
+}
+
+.skillbar-title {
+    position:absolute;
+    top:0;
+    left:0;
+    width:110px;
+    font-weight:bold;
+    font-size:13px;
+    color:#ffffff;
+    -webkit-border-top-left-radius:3px;
+    -webkit-border-bottom-left-radius:4px;
+    -moz-border-radius-topleft:3px;
+    -moz-border-radius-bottomleft:3px;
+    border-top-left-radius:3px;
+    border-bottom-left-radius:3px;
+}
+
+.skillbar-title span {
+    display:block;
+    background:rgba(0, 0, 0, 0.1);
+    padding:0 20px;
+    height:35px;
+    line-height:35px;
+    -webkit-border-top-left-radius:3px;
+    -webkit-border-bottom-left-radius:3px;
+    -moz-border-radius-topleft:3px;
+    -moz-border-radius-bottomleft:3px;
+    border-top-left-radius:3px;
+    border-bottom-left-radius:3px;
+}
+
+.skillbar-bar {
+    height:35px;
+    width:0px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+.skill-bar-percent {
+    position:absolute;
+    right:10px;
+    top:0;
+    font-size:11px;
+    height:35px;
+    line-height:35px;
+    color:#ffffff;
+    color:rgba(0, 0, 0, 0.4);
+}
+
+.programmation_title
+{
+    background:hotpink;
+}
+
+.programmation_bar
+{
+    background:#f48fb1;
+
+}
+
+.frameworks_title
+{
+    background:red;
+}
+
+.frameworks_bar
+{
+    background:#f44336;
+}
+
+.langues_title
+{
+    background:dodgerblue;
+}
+
+.langues_bar
+{
+    background:#64b5f6;
+}
+
+.projet
+{
+    margin-left: 12px;
+}
+
+@media only screen and (max-width: 400px) {
+    .projet
+    {
+        margin-left: 35px;
+    }
+
+    .contenu
+    {
+        text-align: center;
+    }
+
+    .contenu2
+    {
+        visibility: hidden;
+    }
+}
+
+@media (min-width: 401px) and (max-width: 699px) {
+    .projet
+    {
+        margin-left: 60px;
+    }
+
+    .contenu
+    {
+        text-align: center;
+    }
+
+    .contenu2
+    {
+        visibility: hidden;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 999px) {
+    .projet
+    {
+        margin-left: 200px;
+    }
+
+    .contenu
+    {
+        text-align: center;
+    }
+
+    .contenu2
+    {
+        visibility: hidden;
+    }
+}
+
+
 
 

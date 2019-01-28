@@ -1,0 +1,59 @@
+#main_div
+{
+    font-family: URW Chancery L, cursive;
+}
+
+html
+{
+    background-color: #bdbdbd;
+}
+
+#menu, #footer
+{
+    background-color: #01579b;
+}
+
+.title_menu
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.title_sous_menu
+{
+    text-decoration: underline;
+}
+
+.prix
+{
+    float: right;
+}
+
+.explications
+{
+    font-style: italic;
+}
+.menu
+ {
+     height: 1050px;
+ }
+
+.enfant
+{
+    height: 700px;
+}
+
+#logo
+{
+    margin-top: 15px;
+}
+
+.send
+{
+    background-color: #01579b;
+}
+
+.send:hover
+{
+    background-color: #01579b;
+}

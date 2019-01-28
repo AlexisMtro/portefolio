@@ -1,0 +1,18 @@
+Accueil :
+
+- Explication du campus HEP, 
+- Gallerie d'illustration
+
+Vie Etudiante : 
+
+- Differents services disponible pour les etudiants
+- Partenaire de services
+
+Entreprise : 
+
+- Possibilité pour les etudiants de se connecter afin d'y ajouter un cv 
+- Possibilité pour les entreprises de consulter les cv des etudiants selon l'ecole et le niveau d'etude
+
+Nos ecoles : 
+
+- Listes des ecoles du campus HEP et redirection sur leur site d'informations
